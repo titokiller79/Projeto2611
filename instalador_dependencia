@@ -1,0 +1,4 @@
+para instalar os icones
+npm install  @expo/vector-icons@15.0.3
+para o radion button
+npm install react-native-paper
